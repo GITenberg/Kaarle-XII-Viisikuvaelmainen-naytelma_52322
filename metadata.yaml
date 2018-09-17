@@ -1,0 +1,35 @@
+_repo: Kaarle-XII-Viisikuvaelmainen-naytelma_52322
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Halme, Kaarle
+    birthdate: 1864
+    deathdate: 1946
+    gutenberg_agent_id: '33643'
+    url: http://www.gutenberg.org/2009/agents/33643
+    wikipedia: http://fi.wikipedia.org/wiki/Kaarle_Halme
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2016-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52322'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charles XII, King of Sweden, 1682-1718 -- Drama'
+- !lcsh 'Swedish drama -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Kaarle XII: Viisikuvaelmainen näytelmä'
+url: http://www.gutenberg.org/ebooks/52322
