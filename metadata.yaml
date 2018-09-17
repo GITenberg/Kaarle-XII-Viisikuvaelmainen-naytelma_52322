@@ -1,5 +1,5 @@
 _repo: Kaarle-XII-Viisikuvaelmainen-naytelma_52322
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Halme, Kaarle
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '33643'
     url: http://www.gutenberg.org/2009/agents/33643
     wikipedia: http://fi.wikipedia.org/wiki/Kaarle_Halme
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Strindberg, August
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52322#Kaarle-XII-Viisikuvaelmainen-naytelma
 gutenberg_issued: '2016-06-13'
 gutenberg_type: Text
 identifiers:
